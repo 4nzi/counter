@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "dependencies": {
+    "vue": "^2.6.14"
+  },
   "devDependencies": {
     "ts-loader": "^9.2.6",
     "typescript": "^4.4.4",
